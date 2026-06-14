@@ -34,9 +34,9 @@ topics like microservices, caching, and system design.
 <br clear="all">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sm4rtSt1ck&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm4rtSt1ck&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm4rtSt1ck&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sm4rtSt1ck&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak"/><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sm4rtSt1ck&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=00000000" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm4rtSt1ck&layout=compact&theme=radical&hide_border=true&bg_color=00000000" alt="Top Languages" height="165"/>
 </div>
 
 
