@@ -18,7 +18,7 @@ My core stack is **Python, Java, and SQL**, and right now I'm deep into learning
 to design and ship full-featured web applications and REST APIs from scratch.
 
 
-<img src="yapapa-cat-2.gif" align="right" width="240" alt="Kitten">
+<img src="yapapa-cat-2.gif" align="right" width="270" alt="Kitten">
 I enjoy understanding how things work under the hood — from database design and query optimization
 to clean architecture and API design. My goal is to keep growing as a backend engineer, get comfortable
 building production-ready services with Spring and Django, and eventually move toward more advanced
