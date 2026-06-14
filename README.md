@@ -45,6 +45,6 @@ topics like microservices, caching, and system design.
   <br>
 
 <!-- - [ ] [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) -->
- - ![leonid.runtime@gmail.com](mailto:leonid.runtime@gmail.com)
+ - [leonid.runtime@gmail.com](mailto:leonid.runtime@gmail.com)
 <!-- - [ ] [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#) -->
 </details>
