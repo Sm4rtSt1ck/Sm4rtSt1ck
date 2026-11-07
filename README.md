@@ -8,7 +8,7 @@ $$\Huge\color{#7fff7f}\mathtt{Backend \space developer }\$$
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,php,postgres,django,git,linux&theme=dark" alt="Tech stack icons"/>
+<img src="https://skillicons.dev/icons?i=python,django,java,php,postgres,linux,docker&theme=dark" alt="Tech stack icons"/>
 </div>
 
 \
